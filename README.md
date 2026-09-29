@@ -99,7 +99,7 @@ Worked example: an internal policy assistant that gives outdated answers
 | [**01 - System Map**](submission/01-system-map.md) | Request flow, data flow, components and trust boundaries. |
 | [**02 - Diagnostic Register**](submission/02-diagnostic-register.md) | Frozen facts, evidence, ranked hypotheses and AI challenge note. |
 | [**03 - Recovery Plan**](submission/03-recovery-plan.md) | Prioritized actions, proof of recovery, rollback conditions. |
-| [**04 - Three-Slide Summary**](submission/04-three-slide-summary.md) | Decision summary ([.pptx](submission/04-three-slide-summary.pptx)). |
+| [**04 - Three-Slide Summary**](submission/04-three-slide-summary.md) | Decision summary ([.pptx](submission/04-three-slide-summary.pptx), [.html](submission/04-three-slide-summary.html)). |
 | [**05 - Reflection**](submission/05-reflection.md) | Answers to the reflection questions. |
 
 ### Additional Folders and Files
