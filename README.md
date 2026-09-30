@@ -101,6 +101,7 @@ Worked example: an internal policy assistant that gives outdated answers
 | [**03 - Recovery Plan**](submission/03-recovery-plan.md) | Prioritized actions, proof of recovery, rollback conditions. |
 | [**04 - Three-Slide Summary**](submission/04-three-slide-summary.md) | Decision summary ([.pptx](submission/04-three-slide-summary.pptx), [.html](submission/04-three-slide-summary.html)). |
 | [**05 - Reflection**](submission/05-reflection.md) | Answers to the reflection questions. |
+| [**06 - Presenting Script**](submission/06-presenting-script.md) | Three-minute talking points for the slides. |
 
 ### Additional Folders and Files
 
